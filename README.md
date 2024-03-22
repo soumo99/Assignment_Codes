@@ -6,6 +6,7 @@ Use web scraping method
 
 Eg : 
 input [Leonardo DiCaprio]
+
 Output : Films done by Leonardo DiCaprio in descending order
 
 Time Limit:1 Day
@@ -22,9 +23,14 @@ Create an ML algorithm to classify the planets as Candidate/False positive/Confi
 Time Limit:1 Day
 
 Sub-questions for Problem 2
+
 Why did you choose the particular algorithm?
+
 What are the different tuning methods used for the algorithm?
+
 Did you consider any other choice of algorithm?Why or why not?
+
 What is the accuracy?
+
 What are the different types of metrics that can be used to evaluate the model?
 
